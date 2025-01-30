@@ -7,5 +7,5 @@ The Guesthouse Web Application is a modern, interactive platform built using Rea
 ### Styling: CSS
 
 ## Installation
-npm install
-npm start
+#### npm install
+#### npm start
